@@ -87,3 +87,7 @@ Data cleaning · Exploratory analysis · SQL (CTEs, window functions) · RFM seg
 ## Author
 
 **Anurag Tiwari** · [LinkedIn](https://www.linkedin.com/in/anurag-tiwari-7a13743ba/)
+<img width="1332" height="755" alt="Screenshot 2026-10-23 131442" src="https://github.com/user-attachments/assets/87a457ef-7984-4f2f-9f5d-a9306ddc673c" />
+<img width="1331" height="737" alt="Screenshot 2026-10-23 131431" src="https://github.com/user-attachments/assets/10cd1ad5-2c9c-4713-990e-c1445f72c223" />
+<img width="1338" height="741" alt="Screenshot 2026-10-23 131422" src="https://github.com/user-attachments/assets/05e98fd3-ff4b-46ef-a3b4-38144b63029a" />
+
