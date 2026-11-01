@@ -2,6 +2,8 @@
 
  Built an end-to-end data analytics project on a real-world retail sales dataset: cleaned the data, explored it, answered business questions in SQL, segment customers with RFM, and presented everything in a Power BI dashboard.
 
+<img width="1338" height="741" alt="Screenshot 2026-10-23 131422" src="https://github.com/user-attachments/assets/05e98fd3-ff4b-46ef-a3b4-38144b63029a" />
+
 ## Objective
 
 Found out **where revenue comes from, where profit is lost, and which customers matter most**, and turn the answers into clear actions for the business.
@@ -75,20 +77,14 @@ Data cleaning · Exploratory analysis · SQL (CTEs, window functions) · RFM seg
 | **Customers** | Champions are 28% of customers but bring 40% of revenue |
 | **Churn risk** | $785K (34%) of revenue sits with At Risk and Lost customers |
 
-### Recommendations
-
-1. Cap discounts at 20%
-2. Review pricing on Tables, Bookcases, Supplies and Machines
-3. Run a win-back campaign for At Risk customers
-4. Prepare stock and promotions for September to December
-
 Full findings and SQL answers are in [`INSIGHTS.md`](INSIGHTS.md).
 
-## Author
-
-**Anurag Tiwari** · [LinkedIn](https://www.linkedin.com/in/anurag-tiwari-7a13743ba/)
+## Dashboard --
 
 <img width="1338" height="741" alt="Screenshot 2026-10-23 131422" src="https://github.com/user-attachments/assets/05e98fd3-ff4b-46ef-a3b4-38144b63029a" />
 <img width="1331" height="737" alt="Screenshot 2026-10-23 131431" src="https://github.com/user-attachments/assets/10cd1ad5-2c9c-4713-990e-c1445f72c223" />
 <img width="1332" height="755" alt="Screenshot 2026-10-23 131442" src="https://github.com/user-attachments/assets/87a457ef-7984-4f2f-9f5d-a9306ddc673c" />
 
+## Author
+
+**Anurag Tiwari** · [LinkedIn](https://www.linkedin.com/in/anurag-tiwari-7a13743ba/)
