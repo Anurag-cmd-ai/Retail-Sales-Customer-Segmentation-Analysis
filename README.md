@@ -80,20 +80,16 @@ Data cleaning · Exploratory analysis · SQL (CTEs, window functions) · RFM seg
 -- A few charts from the exploratory notebook that back up the findings above.
 
 Growth: sales and profit rose every year from 2015 to 2017
-
-<p align="center"><img src="assets/eda_yearly_sales_profit.png" width="620" alt="Yearly sales and profit"></p>
+<img width="933" height="501" alt="Screenshot 2026-11-11 115952" src="https://github.com/user-attachments/assets/9037a69e-18ff-4d69-ad16-586a1cb5cf3e" />
 
 Seasonality: sales spike each autumn and holiday season, and the peaks keep getting higher
-
-<p align="center"><img src="assets/eda_monthly_sales_trend.png" width="820" alt="Monthly sales trend with 3-month average"></p>
+<img width="1302" height="475" alt="Screenshot 2026-11-11 120001" src="https://github.com/user-attachments/assets/14be0660-dae3-47f4-b88c-d2044494b95a" />
 
 Categories: Furniture sells as much as the others but keeps very little profit
-
-<p align="center"><img src="assets/eda_category_sales_profit.png" width="620" alt="Sales and profit by category"></p>
+<img width="907" height="483" alt="Screenshot 2026-11-11 120048" src="https://github.com/user-attachments/assets/559a36d7-19d4-451a-b16b-bba75bfc0a26" />
 
 Loss-makers: Tables, Bookcases and Supplies are the only sub-categories in the red
-
-<p align="center"><img src="assets/eda_subcategory_sales_profit.png" width="850" alt="Sales and profit by sub-category"></p>
+<img width="1317" height="655" alt="Screenshot 2026-11-11 120058" src="https://github.com/user-attachments/assets/ec41a51d-3518-43cb-9f82-94a5f8057b68" />
 
 Full findings and SQL answers are in [`INSIGHTS.md`](INSIGHTS.md).
 
