@@ -42,8 +42,7 @@ retail-sales-analysis/
 ├── sql/
 │   └── transactions.sql
 ├── dashboard/
-│   └── Retail_Sales_Dashboard.pbix
-├── images/
+│   ├── Retail_Sales_Dashboard.pbix
 │   ├── dashboard_1_sales_overview.png
 │   ├── dashboard_2_product_geography.png
 │   └── dashboard_3_customer_rfm.png
