@@ -50,9 +50,7 @@ retail-sales-analysis/
 ├── INSIGHTS.md
 └── README.md
 ```
-
 ## Skills Demonstrated
-
 Data cleaning · Exploratory analysis · SQL (CTEs, window functions) · RFM segmentation · DAX measures · Dashboard design · Business storytelling
 
 ## Results
@@ -76,6 +74,26 @@ Data cleaning · Exploratory analysis · SQL (CTEs, window functions) · RFM seg
 | **States** | Texas, Ohio, Pennsylvania and Illinois are big sellers but lose money |
 | **Customers** | Champions are 28% of customers but bring 40% of revenue |
 | **Churn risk** | $785K (34%) of revenue sits with At Risk and Lost customers |
+
+# A glimpse of the EDA
+
+-- A few charts from the exploratory notebook that back up the findings above.
+
+Growth: sales and profit rose every year from 2015 to 2017
+
+<p align="center"><img src="assets/eda_yearly_sales_profit.png" width="620" alt="Yearly sales and profit"></p>
+
+Seasonality: sales spike each autumn and holiday season, and the peaks keep getting higher
+
+<p align="center"><img src="assets/eda_monthly_sales_trend.png" width="820" alt="Monthly sales trend with 3-month average"></p>
+
+Categories: Furniture sells as much as the others but keeps very little profit
+
+<p align="center"><img src="assets/eda_category_sales_profit.png" width="620" alt="Sales and profit by category"></p>
+
+Loss-makers: Tables, Bookcases and Supplies are the only sub-categories in the red
+
+<p align="center"><img src="assets/eda_subcategory_sales_profit.png" width="850" alt="Sales and profit by sub-category"></p>
 
 Full findings and SQL answers are in [`INSIGHTS.md`](INSIGHTS.md).
 
