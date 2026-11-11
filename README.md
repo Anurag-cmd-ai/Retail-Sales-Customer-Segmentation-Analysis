@@ -1,6 +1,6 @@
 # Retail Sales & Customer Segmentation Analysis
 
- Built an end-to-end data analytics project on a real-world retail sales dataset: cleaned the data, explored it, answered business questions in SQL, segment customers with RFM, and presented everything in a Power BI dashboard.
+Built an end-to-end retail sales analytics project analyzing $2.30M in revenue and $286K in profit across 5,009 orders using SQL, RFM customer segmentation, and Power BI. Uncovered critical profit leaks from excessive discounting and loss-making product categories, while identifying high-value Champions and churn risks to drive actionable business growth.
 
 <img width="1338" height="741" alt="Screenshot 2026-10-23 131422" src="https://github.com/user-attachments/assets/05e98fd3-ff4b-46ef-a3b4-38144b63029a" />
 
