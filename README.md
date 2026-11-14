@@ -75,7 +75,7 @@ Data cleaning · Exploratory analysis · SQL (CTEs, window functions) · RFM seg
 | **Customers** | Champions are 28% of customers but bring 40% of revenue |
 | **Churn risk** | $785K (34%) of revenue sits with At Risk and Lost customers |
 
-# A glimpse of the EDA
+## A glimpse of the EDA
 
 -- A few charts from the exploratory notebook that back up the findings above.
 
